@@ -1,7 +1,6 @@
 # 👮 MASZ
 
 [![https://github.com/users/zaanposni/packages/container/package/masz_backend](https://img.shields.io/badge/using-docker-blue?style=for-the-badge)](https://github.com/users/zaanposni/packages/container/package/masz_backend)
-[![https://discord.gg/5zjpzw6h3S](https://img.shields.io/discord/779262870016884756?logo=discord&style=for-the-badge)](https://discord.gg/5zjpzw6h3S)
 [![SupportedLanguages](https://img.shields.io/badge/translated-8%20languages-brightgreen?style=for-the-badge)](https://github.com/zaanposni/discord-masz/blob/master/translations/supported_languages.json)
 
 ⭐ **Infractions and managed (temporary) punishments** - to moderate your server\
